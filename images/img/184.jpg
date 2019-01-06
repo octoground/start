@@ -1,0 +1,1852 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta http-equiv="Content-Type" content="text/html; charset=windows-1251" />  
+<meta name="description" content="Центры слухопротезирования Радуга звуков – комплексные решения для тех, кто хотел бы вернуть качество жизни. Клиентам мы предлагаем внутриушные и заушные слуховые аппараты Oticon, Siemens, Phonak." />
+<meta name="robots" content="index, follow" />
+<link href="/bitrix/cache/css/s1/meganew/kernel_main/kernel_main.css?150634871426347" type="text/css"  rel="stylesheet" />
+<link href="/bitrix/cache/css/s1/meganew/template_1eafddf5aaeda199904109acc20202f8/template_1eafddf5aaeda199904109acc20202f8.css?15071903139828" type="text/css"  data-template-style="true"  rel="stylesheet" />
+<script type="text/javascript">if(!window.BX)window.BX={};if(!window.BX.message)window.BX.message=function(mess){if(typeof mess=='object') for(var i in mess) BX.message[i]=mess[i]; return true;};</script>
+<script type="text/javascript">(window.BX||top.BX).message({'JS_CORE_LOADING':'Загрузка...','JS_CORE_NO_DATA':'- Нет данных -','JS_CORE_WINDOW_CLOSE':'Закрыть','JS_CORE_WINDOW_EXPAND':'Развернуть','JS_CORE_WINDOW_NARROW':'Свернуть в окно','JS_CORE_WINDOW_SAVE':'Сохранить','JS_CORE_WINDOW_CANCEL':'Отменить','JS_CORE_WINDOW_CONTINUE':'Продолжить','JS_CORE_H':'ч','JS_CORE_M':'м','JS_CORE_S':'с','JSADM_AI_HIDE_EXTRA':'Скрыть лишние','JSADM_AI_ALL_NOTIF':'Показать все','JSADM_AUTH_REQ':'Требуется авторизация!','JS_CORE_WINDOW_AUTH':'Войти','JS_CORE_IMAGE_FULL':'Полный размер'});</script>
+<script type="text/javascript">(window.BX||top.BX).message({'LANGUAGE_ID':'ru','FORMAT_DATE':'DD.MM.YYYY','FORMAT_DATETIME':'DD.MM.YYYY HH:MI:SS','COOKIE_PREFIX':'BITRIX_SM','SERVER_TZ_OFFSET':'10800','SITE_ID':'s1','SITE_DIR':'/','USER_ID':'','SERVER_TIME':'1509014936','USER_TZ_OFFSET':'0','USER_TZ_AUTO':'Y','bitrix_sessid':'2410d024b3a0704e0d4a9b5bc9fec6e0'});</script>
+
+
+<script type="text/javascript" src="/bitrix/cache/js/s1/meganew/kernel_main/kernel_main.js?1506348714293028"></script>
+<script type="text/javascript" src="/bitrix/js/main/core/core_db.min.js?14986512448699"></script>
+<script type="text/javascript" src="/bitrix/js/main/core/core_frame_cache.min.js?147333626911191"></script>
+<script type="text/javascript">BX.setJSList(['/bitrix/js/main/core/core.js','/bitrix/js/main/core/core_ajax.js','/bitrix/js/main/json/json2.min.js','/bitrix/js/main/core/core_ls.js','/bitrix/js/main/core/core_fx.js','/bitrix/js/main/session.js','/bitrix/js/main/core/core_window.js','/bitrix/js/main/core/core_popup.js','/bitrix/js/main/core/core_date.js','/bitrix/js/main/utils.js','/bitrix/templates/meganew/components/bitrix/menu/horizontal_menu/script.js','/bitrix/templates/meganew/components/bitrix/menu/bottom-menu/script.js']); </script>
+<script type="text/javascript">BX.setCSSList(['/bitrix/js/main/core/css/core.css','/bitrix/js/main/core/css/core_popup.css','/bitrix/js/main/core/css/core_date.css','/bitrix/templates/meganew/components/bitrix/menu/horizontal_menu/style.css','/bitrix/templates/meganew/components/bitrix/news.list/main_bestseller/style.css','/bitrix/templates/meganew/components/bitrix/news.list/official_raduga/style.css','/bitrix/templates/meganew/components/bitrix/menu/bottom-menu/style.css','/bitrix/templates/meganew/template_styles.css']); </script>
+<script type="text/javascript">
+					(function () {
+						"use strict";
+
+						var counter = function ()
+						{
+							var cookie = (function (name) {
+								var parts = ("; " + document.cookie).split("; " + name + "=");
+								if (parts.length == 2) {
+									try {return JSON.parse(decodeURIComponent(parts.pop().split(";").shift()));}
+									catch (e) {}
+								}
+							})("BITRIX_CONVERSION_CONTEXT_s1");
+
+							if (cookie && cookie.EXPIRE >= BX.message("SERVER_TIME"))
+								return;
+
+							var request = new XMLHttpRequest();
+							request.open("POST", "/bitrix/tools/conversion/ajax_counter.php", true);
+							request.setRequestHeader("Content-type", "application/x-www-form-urlencoded");
+							request.send(
+								"SITE_ID="+encodeURIComponent("s1")+
+								"&sessid="+encodeURIComponent(BX.bitrix_sessid())+
+								"&HTTP_REFERER="+encodeURIComponent(document.referrer)
+							);
+						};
+
+						if (window.frameRequestStart === true)
+							BX.addCustomEvent("onFrameDataReceived", counter);
+						else
+							BX.ready(counter);
+					})();
+				</script>
+<link href="/js/fancybox/jquery.fancybox.css"  type="text/css" rel="stylesheet" />
+<script type="text/javascript" src="/js/jquery-1.10.1.min.js"></script>
+<script type="text/javascript" src="/js/fancybox/jquery.fancybox.js"></script>
+
+
+
+<script type="text/javascript" src="/bitrix/cache/js/s1/meganew/template_950f764773874d02148bc1e1bc657f6f/template_950f764773874d02148bc1e1bc657f6f.js?15063292621791"></script>
+<script type="text/javascript">var _ba = _ba || []; _ba.push(["aid", "0692c3eb87680ceaf2b11a444ecdaff5"]); _ba.push(["host", "www.radugazvukov.ru"]); (function() {var ba = document.createElement("script"); ba.type = "text/javascript"; ba.async = true;ba.src = (document.location.protocol == "https:" ? "https://" : "http://") + "bitrix.info/ba.js";var s = document.getElementsByTagName("script")[0];s.parentNode.insertBefore(ba, s);})();</script>
+<script>new Image().src='http://radugazvukov.ru/bitrix/spread.php?s=QklUUklYX1NNX0dVRVNUX0lEATMyMTI3MjgBMTU0MDExODkzNQEvAQEBAkJJVFJJWF9TTV9MQVNUX1ZJU0lUATI2LjEwLjIwMTcgMTM6NDg6NTUBMTU0MDExODkzNQEvAQEBAg%3D%3D&k=7b5a37afc7fbaec81b1ef27f67107c48';
+new Image().src='http://raduga-zvukov.ru/bitrix/spread.php?s=QklUUklYX1NNX0dVRVNUX0lEATMyMTI3MjgBMTU0MDExODkzNQEvAQEBAkJJVFJJWF9TTV9MQVNUX1ZJU0lUATI2LjEwLjIwMTcgMTM6NDg6NTUBMTU0MDExODkzNQEvAQEBAg%3D%3D&k=7b5a37afc7fbaec81b1ef27f67107c48';
+new Image().src='http://радугазвуков.рф/bitrix/spread.php?s=QklUUklYX1NNX0dVRVNUX0lEATMyMTI3MjgBMTU0MDExODkzNQEvAQEBAkJJVFJJWF9TTV9MQVNUX1ZJU0lUATI2LjEwLjIwMTcgMTM6NDg6NTUBMTU0MDExODkzNQEvAQEBAg%3D%3D&k=7b5a37afc7fbaec81b1ef27f67107c48';
+new Image().src='http://радуга-звуков.рф/bitrix/spread.php?s=QklUUklYX1NNX0dVRVNUX0lEATMyMTI3MjgBMTU0MDExODkzNQEvAQEBAkJJVFJJWF9TTV9MQVNUX1ZJU0lUATI2LjEwLjIwMTcgMTM6NDg6NTUBMTU0MDExODkzNQEvAQEBAg%3D%3D&k=7b5a37afc7fbaec81b1ef27f67107c48';
+new Image().src='http://vashiberushi.ru/bitrix/spread.php?s=QklUUklYX1NNX0dVRVNUX0lEATMyMTI3MjgBMTU0MDExODkzNQEvAQEBAkJJVFJJWF9TTV9MQVNUX1ZJU0lUATI2LjEwLjIwMTcgMTM6NDg6NTUBMTU0MDExODkzNQEvAQEBAg%3D%3D&k=7b5a37afc7fbaec81b1ef27f67107c48';
+new Image().src='http://vashi-berushi.ru/bitrix/spread.php?s=QklUUklYX1NNX0dVRVNUX0lEATMyMTI3MjgBMTU0MDExODkzNQEvAQEBAkJJVFJJWF9TTV9MQVNUX1ZJU0lUATI2LjEwLjIwMTcgMTM6NDg6NTUBMTU0MDExODkzNQEvAQEBAg%3D%3D&k=7b5a37afc7fbaec81b1ef27f67107c48';
+</script>
+
+
+
+<title>Центры слуха «Радуга звуков» - продажа слуховых аппаратов в Москве и регионах России</title>
+<link rel="icon" href="http://www.radugazvukov.ru/favicon.ico" type="image/x-icon">
+<link rel="shortcut icon" href="http://www.radugazvukov.ru/favicon.ico" type="image/x-icon">
+
+<!-- Bootstrap -->
+    <link href="/bitrix/templates/meganew/css/bootstrap.min.css" rel="stylesheet">
+    <link rel="stylesheet" href="/bitrix/templates/meganew/css/flexslider.css" type="text/css">
+    <link rel="stylesheet" href="/bitrix/templates/meganew/css/custom.css">
+    <link rel="stylesheet" href="/bitrix/templates/meganew/css/fonts/font-awesome/css/font-awesome.min.css">
+
+
+    <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
+    <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+    <!--[if lt IE 9]>
+      <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+      <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
+    <![endif]-->
+
+<script language="JavaScript">
+  <!--
+  //Redirect to the URL selected in a list box.
+  function redir(myList){
+    if(newURL=myList.options [myList.selectedIndex ].value)
+      document.location=newURL;
+  }
+  //-->
+</script> 
+<script src="/bitrix/js/runtime.js"></script>
+<script type="text/javascript">
+var _gaq = _gaq || [];
+_gaq.push(['_setAccount', 'UA-38873061-1']);
+_gaq.push(['_addOrganic', 'blogsearch.google.ru', 'q', true]);
+_gaq.push(['_addOrganic', 'go.mail.ru', 'q', true]);
+_gaq.push(['_addOrganic', 'nova.rambler.ru', 'query', true]);
+_gaq.push(['_addOrganic', 'nigma.ru', 's', true]);
+_gaq.push(['_addOrganic', 'webalta.ru', 'q', true]);
+_gaq.push(['_addOrganic', 'aport.ru', 'r', true]);
+_gaq.push(['_addOrganic', 'poisk.ru', 'text', true]);
+_gaq.push(['_addOrganic', 'poisk.ru', 'text', true]);
+_gaq.push(['_addOrganic', 'km.ru', 'q', true]);
+_gaq.push(['_addOrganic', 'liveinternet.ru', 'q', true]);
+_gaq.push(['_addOrganic', 'quintura.ru', 'request', true]);
+_gaq.push(['_addOrganic', 'search.qip.ru', 'query', true]);
+_gaq.push(['_addOrganic', 'gogo.ru', 'q', true]);
+_gaq.push(['_addOrganic', 'ru.yahoo.com', 'p', true]);
+_gaq.push(['_addOrganic', 'tut.by', 'query', true]);
+_gaq.push(['_addOrganic', 'all.by', 'query', true]);
+_gaq.push(['_addOrganic', 'meta.ua', 'q', true]);
+_gaq.push(['_addOrganic', 'bigmir.net', 'z', true]);
+_gaq.push(['_addOrganic', 'i.ua', 'q', true]);
+_gaq.push(['_addOrganic', 'online.ua', 'q', true]);
+_gaq.push(['_addOrganic', 'ukr.net', 'search_query', true]);
+_gaq.push(['_addOrganic', 'search.ua', 'q', true]);
+_gaq.push(['_addOrganic', 'search.com.ua', 'Domain', true]);
+_gaq.push(['_addOrganic', 'images.yandex.ru', 'text', true]);
+_gaq.push(['_addOrganic', 'market.yandex.ru', 'text', true]);
+_gaq.push(['_addOrganic', 'ya.ru', 'text', true]); 
+_gaq.push(['_addOrganic', 'yandex.ua', 'text', true]);
+_gaq.push(['_addOrganic', 'auto.yandex.ru', 'text', true]);
+_gaq.push(['_addOrganic', 'music.yandex.ru', 'text', true]);
+_gaq.push(['_addOrganic', 'yaca.yandex.ru', 'text', true]); 
+_gaq.push(['_addOrganic', 'blogs.yandex.ru', 'text', true]);
+_gaq.push(['_addOrganic', 'news.yandex.ru', 'text', true]);
+_gaq.push(['_addOrganic', 'slovari.yandex.ru', 'text', true]);
+_gaq.push(['_addOrganic', 'video.yandex.ru', 'text', true]);
+_gaq.push(['_addOrganic', 'afisha.yandex.ru', 'text', true]); 
+_gaq.push(['_addOrganic', 'fotki.yandex.ru', 'text', true]); 
+_gaq.push(['_addOrganic', 'realty.yandex.ru', 'text', true]); 
+_gaq.push(['_trackPageview']);
+(function() {
+var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+})();
+</script>
+<meta name='yandex-verification' content='605c8cca4c05dce6' />
+ 
+<meta name="yandex-verification" content="0a40ff3720862a77" />
+</head>
+<body>
+
+<!--Шапка-->
+   
+<header>
+	<div class="top-block-header">
+        	<div class="container">
+                        <div class="col-md-3 hidden-xs col-sm-4">
+				<a href="http://www.facebook.com/radugazvukov"  rel="nofollow"><img border="0" src="/images/main/fb_gray.png"/></a>
+<a href="http://vkontakte.ru/radugazvukov"  rel="nofollow"><img border="0" src="/images/main/vk_gray.png"/></a>
+<a href="http://www.odnoklassniki.ru/radugazvukov"  rel="nofollow"><img border="0" src="/images/main/ok_gray.png"/></a>
+<a href="https://twitter.com/#!/Raduga_zvukov"  rel="nofollow"><img border="0" src="/images/main/tvit_gray.png"/></a>
+<a href="https://plus.google.com/b/106752204979125475746/" rel="nofollow"><img border="0" src="/images/main/google_gray.png"/></a>
+<a href="http://www.youtube.com/user/radugazvukov" rel="nofollow"><img border="0" src="/images/main/youtube_gray.png"/></a>
+			</div>                    
+                        <div class="col-md-3 hidden-xs hidden-sm">
+<!-- выбор города -->
+				
+<div class="choose-city">
+	<select onchange="redir(this)">
+		<option value="0">Выбрать город</option>
+					<option value="/centers/moskva/">Москва</option>
+					<option value="/centers/moskovskaya_oblast/">Московская область</option>
+					<option value="/centers/sankt_peterburg/">Санкт-Петербург</option>
+					<option value="/centers/leningradskaya_oblast/">Ленинградская область</option>
+					<option value="/centers/angarsk/">Ангарск</option>
+					<option value="/centers/arkhangelsk/">Архангельск</option>
+					<option value="/centers/astrakhan/">Астрахань</option>
+					<option value="/centers/barnaul/">Барнаул</option>
+					<option value="/centers/belgorod/">Белгород</option>
+					<option value="/centers/bratsk/">Братск</option>
+					<option value="/centers/vladivostok/">Владивосток</option>
+					<option value="/centers/vladimir/">Владимир</option>
+					<option value="/centers/volgograd/">Волгоград</option>
+					<option value="/centers/vologda2/">Вологда</option>
+					<option value="/centers/voronezh/">Воронеж</option>
+					<option value="/centers/gorno_altaysk/">Горно-Алтайск</option>
+					<option value="/centers/ekaterinburg/">Екатеринбург</option>
+					<option value="/centers/ivanovo/">Иваново</option>
+					<option value="/centers/izhevsk/">Ижевск</option>
+					<option value="/centers/irkutsk/">Иркутск</option>
+					<option value="/centers/kazan/">Казань</option>
+					<option value="/centers/kaliningrad/">Калининград</option>
+					<option value="/centers/kaluga/">Калуга</option>
+					<option value="/centers/Kemerovo/">Кемерово</option>
+					<option value="/centers/kirov/">Киров</option>
+					<option value="/centers/kostroma/">Кострома</option>
+					<option value="/centers/krasnodar/">Краснодар</option>
+					<option value="/centers/krasnoyarsk/">Красноярск</option>
+					<option value="/centers/kursk/">Курск</option>
+					<option value="/centers/lipetsk/">Липецк</option>
+					<option value="/centers/magadan/">Магадан</option>
+					<option value="/centers/murmansk/">Мурманск</option>
+					<option value="/centers/naberezhnye_chelny/">Набережные Челны</option>
+					<option value="/centers/nizhnekamsk/">Нижнекамск</option>
+					<option value="/centers/nizhniy_novgorod/">Нижний Новгород</option>
+					<option value="/centers/nizhniy_tagil/">Нижний Тагил</option>
+					<option value="/centers/novokuznetsk/">Новокузнецк</option>
+					<option value="/centers/novorossiysk/">Новороссийск</option>
+					<option value="/centers/novosibirsk/">Новосибирск</option>
+					<option value="/centers/obninsk/">Обнинск</option>
+					<option value="/centers/omsk/">Омск</option>
+					<option value="/centers/orel/">Орел</option>
+					<option value="/centers/orenburg/">Оренбург</option>
+					<option value="/centers/orsk/">Орск</option>
+					<option value="/centers/penza/">Пенза</option>
+					<option value="/centers/petrozavodsk/">Петрозаводск</option>
+					<option value="/centers/petropavlovsk_kamchatskiy/">Петропавловск-Камчатский</option>
+					<option value="/centers/pskov/">Псков</option>
+					<option value="/centers/rostov_na_donu/">Ростов-на-Дону</option>
+					<option value="/centers/ryazan/">Рязань</option>
+					<option value="/centers/samara/">Самара</option>
+					<option value="/centers/saransk/">Саранск</option>
+					<option value="/centers/saratov/">Саратов</option>
+					<option value="/centers/smolensk/">Смоленск</option>
+					<option value="/centers/sochi/">Сочи</option>
+					<option value="/centers/stavropol/">Ставрополь</option>
+					<option value="/centers/staryy_oskol/">Старый Оскол</option>
+					<option value="/centers/sterlitamak/">Стерлитамак</option>
+					<option value="/centers/syktyvkar/">Сыктывкар</option>
+					<option value="/centers/tambov/">Тамбов</option>
+					<option value="/centers/tver/">Тверь</option>
+					<option value="/centers/tolyatti/">Тольятти</option>
+					<option value="/centers/tomsk/">Томск</option>
+					<option value="/centers/tula/">Тула</option>
+					<option value="/centers/tyumen/">Тюмень</option>
+					<option value="/centers/ulan_ude/">Улан-Удэ</option>
+					<option value="/centers/ulyanovsk/">Ульяновск</option>
+					<option value="/centers/ufa/">Уфа</option>
+					<option value="/centers/khabarovsk/">Хабаровск</option>
+					<option value="/centers/khanty_mansiysk/">Ханты-Мансийск</option>
+					<option value="/centers/cheboksary/">Чебоксары</option>
+					<option value="/centers/cherepovets/">Череповец</option>
+					<option value="/centers/chita/">Чита</option>
+					<option value="/centers/yurga/">Юрга</option>
+					<option value="/centers/yaroslavl/">Ярославль</option>
+					<option value="/centers/kazahstan/">Республика Казахстан</option>
+					<option value="/centers/raduga_zvukov_franchayzing/">"Радуга звуков" франчайзинг и партнеры</option>
+					<option value="/centers/ukraine/">Белоруссия</option>
+			</select>
+</div> 
+
+
+<!-- конец выбора города -->
+                        </div>
+
+                        <div class="col-md-4 callback hidden-xs col-sm-5">
+				<div class="col-md-5">
+	<span>
+8 (800) 770-71-39<br>
+<small>Звонок бесплатный</small>
+	</span>
+</div>
+<div class="col-md-7">
+<a href="/zakaz-obratnogo-zvonka/" class="callback-link">Мы вам перезвоним</a>
+</div>
+<div class="clearfix"></div>			</div>
+
+                        <div class="col-md-2 hidden-xs col-sm-3">
+<!-- поиск -->
+ <div class="search-form">
+<form action="/search/">
+	<input type="text" placeholder="Найти..." name="q" value="" size="15" maxlength="50" />
+
+	<!-- <input name="s"  value="Поиск" /> -->
+	<button class="btn-search fa fa-search" type="submit"></button>
+</form>
+</div><!-- конец поиска -->
+                        </div>
+
+                        <div class="visible-xs logo-xs text-left col-xs-9">
+				<a href="/"><img src="/images/main/logo_mobile.png" alt="Радуга Звуков" class="img-responsive"></a>
+			</div>
+                        <div class="visible-xs text-right col-xs-3">
+				<!-- logo_raduga_small2.png -->
+                         	<button class="btn btn-responsive-nav navbar-toggle visible-xs"  data-toggle="collapse" data-target="#navbarCollapse" >
+      					<span class="sr-only">Открыть навигацию</span>
+      					<span class="icon-bar"></span>
+      					<span class="icon-bar"></span>
+      					<span class="icon-bar"></span>
+				</button>
+                          </div>
+                         <div class="clearfix"></div>
+                         <!-- <div class="border-xs-header visible-xs"></div>-->
+           	</div> 
+           </div><!-- top -->
+            <div class="container"> 
+		<div class="row"> 
+		<div class="col-md-12 col-sm-12 hidden-xs">
+                        <div class="main-pic">
+				<a href="/centers/"><img alt="Слуховые аппараты в Радуге звуков" src="/upload/medialibrary/1a8/7d0b1ar1.jpg" title="Слуховые аппараты" class="img-responsive top-banner-main"></a>
+                        </div>
+                </div>
+		</div><!-- row -->
+		<div class="row hidden-xs"> 
+		<div class="col-md-12 col-sm-12 hidden-xs">
+                        <div class="flex-container">
+	                        <div class="flexslider">
+				<ul class="slides">
+<li><a href="/information/news/aktsiya_na_slukhovye_apparaty_phonak_bolero_q30/"><img width="1160" alt="Акция на слуховые аппараты Phonak Bolero Q30" src="/boleroq30.jpg" height="306" title="Акция на слуховые аппараты Phonak Bolero Q30"></a></li>
+	<li><a href="/centers/"><img alt="Центры слухопротезирования" src="/images/banners/main-rz.jpg" title="Центры слухопротезирования в Москве и регионах России"></a></li>
+	<li><a href="/services/slukhovye_apparaty_v_kredit_v_rassrochku/rassrochka/"><img alt="Рассрочка на покупку слухового аппарата" src="/images/banners/rassrochka.jpg" title="Слуховые аппараты в рассрочку"></a></li>
+	
+	<li><a href="/information/news/novinka_slukhovye_apparaty_resound_linx/"><img alt="слуховые аппараты ReSound LiNX2" src="/images/banners/linx2-03.jpg" title="Купить слуховые аппараты ReSound LiNX2"></a></li>
+	<li><a href="/information/news/novinka_slukhovye_apparaty_resound_enzo2_up_i_up_smart/"><img alt="Новинка! Слуховые аппараты ReSound Enzo2, Up и Up Smart" src="/images/banners/iphone2.jpg" title="новые слуховые аппараты датской компании ReSound — Enzo2, Up и Up Smart"></a></li>
+	<li><a href="/information/news/novinka_vnutrikanalnye_slukhovye_apparaty_phonak_virto_v/"><img alt="Новинка! Внутриканальные слуховые аппараты Phonak Virto V" src="/images/banners/virto.jpg" title="Новая серия внутриканальных слуховых аппаратов Phonak Virto V"></a></li>
+	<li><a href="/catalog/phonak/"><img alt="слуховые аппараты Phonak" src="/images/banners/phonak70.jpg" title="Купить слуховые аппараты Phonak"></a></li>
+</ul>	                        </div>
+                        </div>
+                 </div>
+		</div> <!-- row -->
+		
+            </div> <!-- container -->
+            <div class="container menu-top-pic">
+                   <div class=" navbar-collapse collapse" id="navbarCollapse">
+                         <!--    <nav class="mega-menu">  -->
+
+											<div id="bx_incl_area_7_1"></div><div id="bx_incl_area_7_2"></div><div id="bx_incl_area_7_3"></div>
+<ul id="horizontal-multilevel-menu" class="nav navbar-inverse nav-justified hidden-xs">
+
+
+	
+	
+					<li><a href="/centers/" class="root-item">Адреса центров <i class="fa fa-angle-down"></i></a>
+				<ul>
+		
+	
+	
+
+	
+	
+		
+							<li><a href="/centers/moskva/">Москва</a></li>
+			
+		
+	
+	
+
+	
+	
+		
+							<li><a href="/centers/moskovskaya_oblast/">Московская область</a></li>
+			
+		
+	
+	
+
+	
+	
+		
+							<li><a href="/centers/sankt_peterburg/">Санкт-Петербург</a></li>
+			
+		
+	
+	
+
+	
+	
+		
+							<li><a href="/centers/leningradskaya_oblast/">Ленинградская область</a></li>
+			
+		
+	
+	
+
+	
+	
+		
+							<li><a href="/centers/regiony_rossii/">Регионы России</a></li>
+			
+		
+	
+	
+
+	
+	
+		
+							<li><a href="/centers/kazahstan/">Республика Казахстан</a></li>
+			
+		
+	
+	
+
+	
+	
+		
+							<li><a href="/centers/raduga_zvukov_franchayzing/">Франчайзинг и партнеры</a></li>
+			
+		
+	
+	
+
+	
+	
+		
+							<li><a href="/centers/ukraine/">Белоруссия</a></li>
+			
+		
+	
+	
+
+	
+	
+		
+							<li><a href="/centers/kontakty">Контакты</a></li>
+			
+		
+	
+	
+
+			</ul></li>	
+	
+					<li><a href="/services/" class="root-item">Услуги <i class="fa fa-angle-down"></i></a>
+				<ul>
+		
+	
+	
+
+	
+	
+		
+							<li><a href="/services/diagnostika_slukha/">Диагностика слуха</a></li>
+			
+		
+	
+	
+
+	
+	
+		
+							<li><a href="/services/slukhoprotezirovanie/">Слухопротезирование</a></li>
+			
+		
+	
+	
+
+	
+	
+		
+							<li><a href="/services/nastroyka_slukhovogo_apparata/">Настройка слухового аппарата</a></li>
+			
+		
+	
+	
+
+	
+	
+		
+							<li><a href="/services/remont_diagnostika_i_nastroyka_slukhovykh_apparatov/">Гарантия и ремонт слуховых аппаратов</a></li>
+			
+		
+	
+	
+
+	
+	
+		
+							<li><a href="/services/izgotovlenie_individualnykh_vkladyshey/">Изготовление индивидуальных вкладышей</a></li>
+			
+		
+	
+	
+
+	
+	
+		
+							<li><a href="/services/slukhovye_apparaty_v_kredit_v_rassrochku/">Слуховые аппараты в кредит/в рассрочку</a></li>
+			
+		
+	
+	
+
+	
+	
+		
+							<li><a href="/services/slukhovye_apparaty_i_aksessuary/">Слуховые аппараты и доп. оборудование</a></li>
+			
+		
+	
+	
+
+	
+	
+		
+							<li><a href="/services/drugie_tovary_i_uslugi/">Другие услуги</a></li>
+			
+		
+	
+	
+
+	
+	
+		
+							<li><a href="/services/meditsinskie_uslugi/">Медицинские услуги</a></li>
+			
+		
+	
+	
+
+	
+	
+		
+							<li><a href="/services/tseny_na_uslugi/">Цены на услуги</a></li>
+			
+		
+	
+	
+
+			</ul></li>	
+	
+					<li><a href="/catalog/" class="root-item">Слуховые аппараты <i class="fa fa-angle-down"></i></a>
+				<ul>
+		
+	
+	
+
+	
+	
+		
+							<li><a href="/catalog/istok-audio/">Исток-Аудио</a></li>
+			
+		
+	
+	
+
+	
+	
+		
+							<li><a href="/catalog/oticon/">Oticon</a></li>
+			
+		
+	
+	
+
+	
+	
+		
+							<li><a href="/catalog/phonak/">Phonak</a></li>
+			
+		
+	
+	
+
+	
+	
+		
+							<li><a href="/catalog/resound/">GN ReSound</a></li>
+			
+		
+	
+	
+
+	
+	
+		
+							<li><a href="/catalog/siemens/">Siemens</a></li>
+			
+		
+	
+	
+
+	
+	
+		
+							<li><a href="/catalog/bernafon/">Bernafon</a></li>
+			
+		
+	
+	
+
+	
+	
+		
+							<li><a href="/catalog/widex/">Widex</a></li>
+			
+		
+	
+	
+
+	
+	
+		
+							<li><a href="/catalog/zaushnye/">Заушные</a></li>
+			
+		
+	
+	
+
+	
+	
+		
+							<li><a href="/catalog/vnutriushnye/">Внутриушные</a></li>
+			
+		
+	
+	
+
+	
+	
+		
+							<li><a href="/catalog/vnutrikanalnye/">Внутриканальные</a></li>
+			
+		
+	
+	
+
+	
+	
+		
+							<li><a href="/catalog/karmannye/">Карманные</a></li>
+			
+		
+	
+	
+
+	
+	
+		
+							<li><a href="/catalog/analogovye/">Аналоговые</a></li>
+			
+		
+	
+	
+
+	
+	
+		
+							<li><a href="/catalog/tsifrovye/">Цифровые</a></li>
+			
+		
+	
+	
+
+	
+	
+		
+							<li><a href="/catalog/nedorogie/">Недорогие</a></li>
+			
+		
+	
+	
+
+	
+	
+		
+							<li><a href="/price-list/">Прайс-лист</a></li>
+			
+		
+	
+	
+
+	
+	
+		
+							<li><a href="/catalog/special_offers/">Специальные предложения</a></li>
+			
+		
+	
+	
+
+	
+	
+		
+							<li><a href="/catalog/novinki/">Новинки</a></li>
+			
+		
+	
+	
+
+	
+	
+		
+							<li><a href="/o-nas/opinions/">Отзывы</a></li>
+			
+		
+	
+	
+
+	
+	
+		
+							<li><a href="/centers/">Где купить слуховой аппарат?</a></li>
+			
+		
+	
+	
+
+	
+	
+		
+							<li><a href="/catalog/kak-kupit/">Как купить слуховой аппарат?</a></li>
+			
+		
+	
+	
+
+			</ul></li>	
+	
+					<li><a href="/accessories/" class="root-item">Доп. товары <i class="fa fa-angle-down"></i></a>
+				<ul>
+		
+	
+	
+
+	
+	
+		
+							<li><a href="/accessories/aksessuary_k_slukhovym_apparatam/">Аксессуары к слуховым аппаратам</a></li>
+			
+		
+	
+	
+
+	
+	
+		
+							<li><a href="/accessories/sredstva_reabilitatsii/">Средства реабилитации</a></li>
+			
+		
+	
+	
+
+	
+	
+		
+							<li><a href="/accessories/vspomogatelnye_sredstva/">Вспомогательные средства</a></li>
+			
+		
+	
+	
+
+	
+	
+		
+							<li><a href="/accessories/berushi/">Беруши</a></li>
+			
+		
+	
+	
+
+			</ul></li>	
+	
+					<li><a href="/o-nas/" class="root-item">О нас <i class="fa fa-angle-down"></i></a>
+				<ul>
+		
+	
+	
+
+	
+	
+		
+							<li><a href="/o-nas/history/">История развития</a></li>
+			
+		
+	
+	
+
+	
+	
+		
+							<li><a href="/o-nas/franchayzing/">Франчайзинг</a></li>
+			
+		
+	
+	
+
+	
+	
+		
+							<li><a href="/o-nas/partnery/">Партнеры</a></li>
+			
+		
+	
+	
+
+	
+	
+		
+							<li><a href="/o-nas/vacancies/">Вакансии</a></li>
+			
+		
+	
+	
+
+	
+	
+		
+							<li><a href="/o-nas/opinions/">Отзывы</a></li>
+			
+		
+	
+	
+
+			</ul></li>	
+	
+					<li><a href="/information/" class="root-item">Информация <i class="fa fa-angle-down"></i></a>
+				<ul>
+		
+	
+	
+
+	
+	
+		
+							<li><a href="/information/news/">Новости</a></li>
+			
+		
+	
+	
+
+	
+	
+		
+							<li><a href="/information/articles/">Статьи</a></li>
+			
+		
+	
+	
+
+	
+	
+		
+							<li><a href="/information/interest/">Это интересно</a></li>
+			
+		
+	
+	
+
+	
+	
+		
+							<li><a href="/information/glossary/">Словарь терминов</a></li>
+			
+		
+	
+	
+
+	
+	
+		
+							<li><a href="/communication/blog/">Блог</a></li>
+			
+		
+	
+	
+
+	
+	
+		
+							<li><a href="/information/faq/">Часто задаваемые вопросы</a></li>
+			
+		
+	
+	
+
+	
+	
+		
+							<li><a href="/information/newspaper_rz/">Журнал «Радуга звуков»</a></li>
+			
+		
+	
+	
+
+	
+	
+		
+							<li><a href="/information/konkursy_radugi_zvukov/">Конкурсы «Радуги звуков»</a></li>
+			
+		
+	
+	
+
+	</ul></li>
+</ul>
+<div class="menu-clear-left"></div>
+
+
+<ul id="horizontal-multilevel-menu" class="nav  navbar-inverse nav-justified visible-xs">
+
+
+					<li  class=""><a href="/centers/">Адреса центров</a>
+
+               
+		
+		
+		
+		
+		
+		
+		
+		
+		
+					<li  class=""><a href="/services/">Услуги</a>
+
+               
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+					<li  class=""><a href="/catalog/">Слуховые аппараты</a>
+
+               
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+					<li  class=""><a href="/accessories/">Доп. товары</a>
+
+               
+		
+		
+		
+		
+					<li  class=""><a href="/o-nas/">О нас</a>
+
+               
+		
+		
+		
+		
+		
+					<li  class=""><a href="/information/">Информация</a>
+
+               
+		
+		
+		
+		
+		
+		
+		
+		
+</ul>
+
+<!--   </nav>    -->
+
+			        </div>
+		<div class="row visible-xs"> <!-- picture on mobile -->
+		
+                        <div class="main-pic">
+				<a href="/centers/"><img class="img-responsive top-banner-main" title="Раскрась мир радугой звуков" src="/images/main/slogan_mobile.png" alt="Раскрась мир радугой звуков"></a>
+                        </div>
+                
+		</div>
+		<div class="row visible-xs"> 
+				<a href="/information/news/aktsiya_na_slukhovye_apparaty_oticon/"><img alt="Скидка Отикон" src="/upload/medialibrary/a2f/mob.jpg" title="Скидка Отикон" class="img-responsive"></a>		</div> <!-- row -->
+            </div>
+        </header>
+    <!--Основной блок-->
+    <main>
+        <div class="container">
+            <div class="main-teasers-block">
+
+                <div class="col-md-2 col-sm-1 col-xs-1" ></div>
+                <div class="col-md-8 col-sm-10 col-xs-10">
+ 			<div class="row">
+                            	<div class="col-md-3 col-xs-6 col-sm-3 main-teasers">
+				<a href="/centers/calendar/">
+					<img src="/images/main/main-teas4.jpg"><br>
+					Запись на прием</a>
+				</div>
+				<div class="col-md-3 col-xs-6 col-sm-3 main-teasers">
+				<a href="/information/question/">
+					<img src="/images/main/main-teas3.jpg"><br>
+					Задать вопрос</a>
+				</div>
+				<div class="col-md-3 col-xs-6 col-sm-3 main-teasers">
+				<a href="/o-nas/opinions/#add_otziv">
+					<img src="/images/main/main-teas2.jpg"><br>
+					Оставить отзыв</a>
+				</div>
+				<div class="col-md-3 col-xs-6 col-sm-3 main-teasers">
+				<a href="/information/newspaper_rz/">
+					<img src="/images/main/main-teas1.jpg"><br>
+					Наш журнал</a>
+				</div>
+                            </div>
+		</div>
+		<div class="col-md-2 col-sm-1 col-xs-1" ></div>
+		<div class="clearfix"></div>
+	</div> <!-- main-teasers-block -->
+   	<div class="row">
+                <div class="col-md-12 hidden-xs hidden-sm main-banners" >
+                    <div class="row">
+                        <div class="col-md-3 col-sm-2">
+                               <div class="banner color2">
+                                     <!-- <img src="/images/banners/2222-02.jpg" class="img-responsive"> -->
+                                     <!--'start_frame_cache_y0XwfU'--><a href="/bitrix/rk.php?id=124&amp;site_id=s1&amp;event1=banner&amp;event2=click&amp;event3=1+%2F+%5B124%5D+%5Bmain_top_banner2%5D+%C1%E0%ED%ED%E5%F0+2+%E3%EB%E0%E2%ED%E0%FF&amp;goto=%2Fcatalog%2Fspecial_offers%2F"><img alt="Акции и спецпредложения" title="Акции и спецпредложения" src="/upload/rk/17b/spec.jpg" width="286" height="143" style="border:0;" /></a><!--'end_frame_cache_y0XwfU'-->                                </div>
+                        </div>
+                        <div class="col-md-3 col-sm-2">
+                               <div class="banner color2">
+                                     
+                                     <!--'start_frame_cache_2DJmFo'--><a href="/bitrix/rk.php?id=148&amp;site_id=s1&amp;event1=banner&amp;event2=click&amp;event3=1+%2F+%5B148%5D+%5Bmain_top_banner4%5D+%C0%EA%F6%E8%FF+Phonak+Bolero+Q30&amp;goto=%2Finformation%2Fnews%2Faktsiya_na_slukhovye_apparaty_phonak_bolero_q30%2F" target="_self" ><img alt="Купить слуховой аппарат Phonak Bolero Q30 со скидкой" title="Купить слуховой аппарат Phonak Bolero Q30 со скидкой" src="/upload/rk/b8f/bolero_raduga_286.jpg" width="286" height="143" style="border:0;" /></a><!--'end_frame_cache_2DJmFo'-->                                </div>
+                        </div>
+                        <div class="col-md-3 col-sm-2">
+                               <div class="banner color2">
+                                     <!-- <img src="/images/banners/2222-04.jpg" class="img-responsive">  -->
+                                     <!--'start_frame_cache_ALOAcH'--><a href="/bitrix/rk.php?id=123&amp;site_id=s1&amp;event1=banner&amp;event2=click&amp;event3=1+%2F+%5B123%5D+%5Bmain_top_banner1%5D+%C3%EB%E0%E2%ED%E0%FF+1+%E1%E0%ED%ED%E5%F0&amp;goto=http%3A%2F%2Fwww.vashiberushi.ru%2F"><img alt="Ваши Беруши" title="Ваши Беруши" src="/upload/rk/4c4/berushi.jpg" width="286" height="143" style="border:0;" /></a><!--'end_frame_cache_ALOAcH'-->                                </div>
+                        </div>
+                        <div class="col-md-3 col-sm-2">
+                               <div class="banner color2">
+                                    <!-- <img src="/images/banners/2222-05.jpg" class="img-responsive"> -->
+                                     <!--'start_frame_cache_Zg1Ab0'--><a href="/bitrix/rk.php?id=126&amp;site_id=s1&amp;event1=banner&amp;event2=click&amp;event3=1+%2F+%5B126%5D+%5Bmain_top_banner3%5D+%C1%E0%ED%ED%E5%F0+4+%E3%EB%E0%E2%ED%E0%FF&amp;goto=%2Fcatalog%2F"><img alt="Каталог слуховых аппаратов" title="Каталог слуховых аппаратов" src="/upload/rk/b60/catalog.jpg" width="286" height="143" style="border:0;" /></a><!--'end_frame_cache_Zg1Ab0'-->                                </div>
+                        </div>
+                       
+                    </div> <!-- row -->
+                </div> <!-- col-md-12 --> 
+            </div>
+            <div class="row">
+                <div class="col-md-6 col-sm-6">
+                           <div class="catalog-anons">
+
+<div id="comp_c57f7b5b6f5db3edda1fb3e4ea901119"><div class="main-bestseller">
+           <div class="blocks-name">Слуховые аппараты</div>
+
+<!-- <div class="clearfix" style="margin-bottom:10px;"></div> -->
+
+				
+<div class="col-md-4 col-sm-6 col-xs-12"  id="bx_3218110189_15413"> 
+       <div class="block-element">
+            <div class="section-item-pic">
+                   <a href="/catalog/product/ria-minibte"><img src="/upload/iblock/5df/ria_mini_bte_m.jpg" border="0" alt="" width="90" height="90" /></a>
+            </div>
+
+            <div class="name-element">
+			
+                   <a href="/catalog/product/ria-minibte">Слуховой аппарат<br /><span>RIA miniBTE</span></a>
+				  
+            </div>
+
+
+
+            <div class="section-item-price"> 
+		
+		
+           							<div class="price-name">Цена:</div>
+			<div class="price-value">
+				<div class="item-price-value">
+                              						34 900 р.					
+                                   
+                              </div> <!---item  price value -->
+			</div> <!-- price-value -->
+			<div class="clearfix"></div>
+             			
+            </div><!-- section-item-price -->
+		
+<div class="order-item">
+	<a rel="RIA miniBTE" class="popup" href="" onclick="_gaq.push(['_trackEvent', 'zakazat', 'knopka_zakazat'])">Заказать</a>
+</div>
+
+
+
+            <div class="clearfix"></div>
+     </div> <!-- block-element -->
+
+ </div>  <!-- col-md-3 -->
+ 
+				
+<div class="col-md-4 col-sm-6 col-xs-12"  id="bx_3218110189_15412"> 
+       <div class="block-element">
+            <div class="section-item-pic">
+                   <a href="/catalog/product/intuis-2-s"><img src="/upload/iblock/91d/s90.jpg" border="0" alt="" width="90" height="90" /></a>
+            </div>
+
+            <div class="name-element">
+			
+                   <a href="/catalog/product/intuis-2-s">Слуховой аппарат<br /><span>Intuis 2 S</span></a>
+				  
+            </div>
+
+
+
+            <div class="section-item-price"> 
+		
+		
+           							<div class="price-name">Цена:</div>
+			<div class="price-value">
+				<div class="item-price-value">
+                              						22 300 р.					
+                                   
+                              </div> <!---item  price value -->
+			</div> <!-- price-value -->
+			<div class="clearfix"></div>
+             			
+            </div><!-- section-item-price -->
+		
+<div class="order-item">
+	<a rel="Intuis 2 S" class="popup" href="" onclick="_gaq.push(['_trackEvent', 'zakazat', 'knopka_zakazat'])">Заказать</a>
+</div>
+
+
+
+            <div class="clearfix"></div>
+     </div> <!-- block-element -->
+
+ </div>  <!-- col-md-3 -->
+ 
+				
+<div class="col-md-4 col-sm-6 col-xs-12"  id="bx_3218110189_15410"> 
+       <div class="block-element">
+            <div class="section-item-pic">
+                   <a href="/catalog/product/acto_pro_cic"><img src="/upload/iblock/778/agil_cic.jpg" border="0" alt="" width="111" height="111" /></a>
+            </div>
+
+            <div class="name-element">
+			
+                   <a href="/catalog/product/acto_pro_cic">Слуховой аппарат<br /><span>ACTO PRO CIC</span></a>
+				  
+            </div>
+
+
+
+            <div class="section-item-price"> 
+		
+		
+           							<div class="price-name">Цена:</div>
+			<div class="price-value">
+				<div class="item-price-value">
+                              						64 000 р.					
+                                   
+                              </div> <!---item  price value -->
+			</div> <!-- price-value -->
+			<div class="clearfix"></div>
+             			
+            </div><!-- section-item-price -->
+		
+<div class="order-item">
+	<a rel="ACTO PRO CIC" class="popup" href="" onclick="_gaq.push(['_trackEvent', 'zakazat', 'knopka_zakazat'])">Заказать</a>
+</div>
+
+
+
+            <div class="clearfix"></div>
+     </div> <!-- block-element -->
+
+ </div>  <!-- col-md-3 -->
+        <!-- <div class="clearfix"></div> -->
+ 
+				
+<div class="col-md-4 col-sm-6 col-xs-12"  id="bx_3218110189_15411"> 
+       <div class="block-element">
+            <div class="section-item-pic">
+                   <a href="/catalog/product/audeo-q30-10"><img src="/upload/iblock/460/050-0079-01_Audeo_Q_10_Standard_xReceiver.jpg" border="0" alt="" width="90" height="90" /></a>
+            </div>
+
+            <div class="name-element">
+			
+                   <a href="/catalog/product/audeo-q30-10">Слуховой аппарат<br /><span>Audeo Q30-10</span></a>
+				  
+            </div>
+
+
+
+            <div class="section-item-price"> 
+		
+		
+           							<div class="price-name">Цена:</div>
+			<div class="price-value">
+				<div class="item-price-value">
+                              						31 000 р.					
+                                   
+                              </div> <!---item  price value -->
+			</div> <!-- price-value -->
+			<div class="clearfix"></div>
+             			
+            </div><!-- section-item-price -->
+		
+<div class="order-item">
+	<a rel="Audeo Q30-10" class="popup" href="" onclick="_gaq.push(['_trackEvent', 'zakazat', 'knopka_zakazat'])">Заказать</a>
+</div>
+
+
+
+            <div class="clearfix"></div>
+     </div> <!-- block-element -->
+
+ </div>  <!-- col-md-3 -->
+ 
+				
+<div class="col-md-4 col-sm-6 col-xs-12"  id="bx_3218110189_15414"> 
+       <div class="block-element">
+            <div class="section-item-pic">
+                   <a href="/catalog/product/up-smart-ups598-dlw"><img src="/upload/iblock/fb5/ups98m.jpg" border="0" alt="" width="90" height="90" /></a>
+            </div>
+
+            <div class="name-element">
+			
+                   <a href="/catalog/product/up-smart-ups598-dlw">Слуховой аппарат<br /><span>Up Smart UPS598-DLW</span></a>
+				  
+            </div>
+
+
+
+            <div class="section-item-price"> 
+		
+		
+           							<div class="price-name">Цена:</div>
+			<div class="price-value">
+				<div class="item-price-value">
+                              						57 300 р.					
+                                   
+                              </div> <!---item  price value -->
+			</div> <!-- price-value -->
+			<div class="clearfix"></div>
+             			
+            </div><!-- section-item-price -->
+		
+<div class="order-item">
+	<a rel="Up Smart UPS598-DLW" class="popup" href="" onclick="_gaq.push(['_trackEvent', 'zakazat', 'knopka_zakazat'])">Заказать</a>
+</div>
+
+
+
+            <div class="clearfix"></div>
+     </div> <!-- block-element -->
+
+ </div>  <!-- col-md-3 -->
+ 
+				
+<div class="col-md-4 col-sm-6 col-xs-12"  id="bx_3218110189_15409"> 
+       <div class="block-element">
+            <div class="section-item-pic">
+                   <a href="/catalog/product/naida-q70-up"><img src="/upload/iblock/8ed/050-0138-P1_Naida_Q_UP_Hook.jpg" border="0" alt="" width="90" height="90" /></a>
+            </div>
+
+            <div class="name-element">
+			
+                   <a href="/catalog/product/naida-q70-up">Слуховой аппарат<br /><span>Naida Q70 UP</span></a>
+				  
+            </div>
+
+
+
+            <div class="section-item-price"> 
+		
+		
+           							<div class="price-name">Цена:</div>
+			<div class="price-value">
+				<div class="item-price-value">
+                              						99 900 р.					
+                                   
+                              </div> <!---item  price value -->
+			</div> <!-- price-value -->
+			<div class="clearfix"></div>
+             			
+            </div><!-- section-item-price -->
+		
+<div class="order-item">
+	<a rel="Naida Q70 UP" class="popup" href="" onclick="_gaq.push(['_trackEvent', 'zakazat', 'knopka_zakazat'])">Заказать</a>
+</div>
+
+
+
+            <div class="clearfix"></div>
+     </div> <!-- block-element -->
+
+ </div>  <!-- col-md-3 -->
+        <!-- <div class="clearfix"></div> -->
+ 
+				
+<div class="col-md-4 col-sm-6 col-xs-12"  id="bx_3218110189_14305"> 
+       <div class="block-element">
+            <div class="section-item-pic">
+                   <a href="/catalog/product/phonak_bolero_q50_m13"><img src="/upload/iblock/e90/11.png" border="0" alt="" width="90" height="90" /></a>
+            </div>
+
+            <div class="name-element">
+			
+                   <a href="/catalog/product/phonak_bolero_q50_m13">Слуховой аппарат<br /><span>Phonak Bolero Q50-M13</span></a>
+				  
+            </div>
+
+
+
+            <div class="section-item-price"> 
+		
+		
+           							<div class="price-name">Цена:</div>
+			<div class="price-value">
+				<div class="item-price-value">
+                              						59 000 р.					
+                                   
+                              </div> <!---item  price value -->
+			</div> <!-- price-value -->
+			<div class="clearfix"></div>
+             			
+            </div><!-- section-item-price -->
+		
+<div class="order-item">
+	<a rel="Phonak Bolero Q50-M13" class="popup" href="" onclick="_gaq.push(['_trackEvent', 'zakazat', 'knopka_zakazat'])">Заказать</a>
+</div>
+
+
+
+            <div class="clearfix"></div>
+     </div> <!-- block-element -->
+
+ </div>  <!-- col-md-3 -->
+ 
+				
+<div class="col-md-4 col-sm-6 col-xs-12"  id="bx_3218110189_14310"> 
+       <div class="block-element">
+            <div class="section-item-pic">
+                   <a href="/catalog/product/phonak_virto_q50_10_nw"><img src="/upload/iblock/5eb/6.jpg" border="0" alt="" width="90" height="90" /></a>
+            </div>
+
+            <div class="name-element">
+			
+                   <a href="/catalog/product/phonak_virto_q50_10_nw">Слуховой аппарат<br /><span>Phonak Virto Q50 10 NW</span></a>
+				  
+            </div>
+
+
+
+            <div class="section-item-price"> 
+		
+		
+           							<div class="price-name">Цена:</div>
+			<div class="price-value">
+				<div class="item-price-value">
+                              						59 000 р.					
+                                   
+                              </div> <!---item  price value -->
+			</div> <!-- price-value -->
+			<div class="clearfix"></div>
+             			
+            </div><!-- section-item-price -->
+		
+<div class="order-item">
+	<a rel="Phonak Virto Q50 10 NW" class="popup" href="" onclick="_gaq.push(['_trackEvent', 'zakazat', 'knopka_zakazat'])">Заказать</a>
+</div>
+
+
+
+            <div class="clearfix"></div>
+     </div> <!-- block-element -->
+
+ </div>  <!-- col-md-3 -->
+ 
+				
+<div class="col-md-4 col-sm-6 col-xs-12"  id="bx_3218110189_15416"> 
+       <div class="block-element">
+            <div class="section-item-pic">
+                   <a href="/catalog/product/linx2-ls588-dw"><img src="/upload/iblock/517/LiNX2_88_m.jpg" border="0" alt="" width="90" height="90" /></a>
+            </div>
+
+            <div class="name-element">
+			
+                   <a href="/catalog/product/linx2-ls588-dw">Слуховой аппарат<br /><span>LiNX2 LS588-DW</span></a>
+				  
+            </div>
+
+
+
+            <div class="section-item-price"> 
+		
+		
+           							<div class="price-name">Цена:</div>
+			<div class="price-value">
+				<div class="item-price-value">
+                              						49 500 р.					
+                                   
+                              </div> <!---item  price value -->
+			</div> <!-- price-value -->
+			<div class="clearfix"></div>
+             			
+            </div><!-- section-item-price -->
+		
+<div class="order-item">
+	<a rel="LiNX2 LS588-DW" class="popup" href="" onclick="_gaq.push(['_trackEvent', 'zakazat', 'knopka_zakazat'])">Заказать</a>
+</div>
+
+
+
+            <div class="clearfix"></div>
+     </div> <!-- block-element -->
+
+ </div>  <!-- col-md-3 -->
+        <!-- <div class="clearfix"></div> -->
+ <div class="clearfix"></div>
+	<div class="catalog-anons-link-all"><a href="/catalog/novinki/">Все новинки</a></div>
+</div>
+                              
+<script type="text/javascript">
+$(document).ready(function() {
+  $("a.gallery").fancybox(
+           {						
+          "padding" : 10,
+          "imageScale" : true, 
+			"zoomOpacity" : false,
+			"zoomSpeedIn" : 500,	
+			"zoomSpeedOut" : 500,	
+			"zoomSpeedChange" : 500, 
+                        "frameWidth" : 900,
+			"overlayShow" : true, 
+			"overlayOpacity" : 0.8,	
+			"hideOnContentClick" :false,
+			"centerOnScroll" : false
+				
+			}
+
+                        );
+
+
+	// ссылка для вызова окна должна иметь класс "popup"
+	$('a.popup').fancybox({
+		'overlayShow': true, // значения параметров можно посмотреть на сайте разработчика
+		'padding': 20,
+		'margin' : 0,
+		'scrolling' : 'no',
+		'titleShow': false,
+		'type': 'ajax',
+		 'href': '/catalog/ajax_popup.php',
+                beforeLoad : function() { 
+
+                     var link='/catalog/ajax_popup.php?name='+$(this.element).attr('rel');
+                     this.href=link;
+                   
+               }
+	});
+
+
+});
+</script>
+</div> 
+
+
+
+<!-- конец слуховые аппараты-->
+                           </div>
+                </div>
+                <div class="col-md-6 col-sm-6">
+                        <div class="articles-anons bg-gray">
+
+<div class="news-list">
+
+<div class="blocks-name">
+
+		<a href="/information/news/">Новости</a>
+</div>
+
+<div class="
+			news-item
+		">
+
+									<a href="/information/news/aktsiya_na_slukhovye_apparaty_phonak_bolero_q30/">Акция на слуховые аппараты Phonak Bolero Q30</a><br />
+					
+					<!--noindex-->
+			<p>
+	 «Радуга Звуков» и&nbsp;компания Phonak запускают совместную акцию на&nbsp;новые слуховые аппараты Bolero Q30! До&nbsp;конца ноября их&nbsp;можно купить по&nbsp;сниженной цене и&nbsp;получить супергарантию на&nbsp;4&nbsp;года. Предложение действует с&nbsp;1&nbsp;октября по&nbsp;30&nbsp;ноября. Телефон горячей линии: 8 (800) 770-71-39 (бесплатный...</p>			<!--/noindex-->
+		
+
+					<span class="news-date-time">
+				29.09.2017			</span>
+		</div>
+<div class="
+			news-item
+		">
+
+									<a href="/information/news/dni_otkrytykh_dverey_radugi_zvukov_v_dmitrove/">«Радуга Звуков» проводит дни открытых дверей в Дмитрове</a><br />
+					
+					<!--noindex-->
+			<p>
+	 26 и 27 сентября в Центре хорошего слуха «Радуга Звуков» в Дмитрове пройдут дни открытых дверей. Только в эти дни всем посетителям будут предложены скидки на слуховые аппараты до 20%.
+</p>			<!--/noindex-->
+		
+
+					<span class="news-date-time">
+				06.09.2017			</span>
+		</div>
+<div class="
+			news-item
+		">
+
+									<a href="/information/news/novinka_slukhovye_apparaty_resound_linx/">Новинка — слуховые аппараты ReSound LiNX&#178;</a><br />
+					
+					<!--noindex-->
+			<p>
+	 Мы&nbsp;представляем новые слуховые аппараты датской компании ReSound серии LiNX&#178;. Это флагманский модельный ряд ReSound, в&nbsp;котором собрано всё лучшее, что сегодня может быть в&nbsp;слуховом аппарате. Аппараты LiNX&#178; подойдут людям с&nbsp;любой степенью тугоухости. Купить их&nbsp;можно в&nbsp;любом центре хорошего слуха «Радуга Звуков»....</p>			<!--/noindex-->
+		
+
+					<span class="news-date-time">
+				04.09.2017			</span>
+		</div>
+<div class="
+			news-item
+		">
+
+									<a href="/information/news/dni_otkrytykh_dverey_radugi_zvukov_v_nizhnem_novgorode/">Дни открытых дверей «Радуги Звуков» в Нижнем Новгороде</a><br />
+					
+					<!--noindex-->
+			<p>
+	 26 и 27 сентября в Центре хорошего слуха «Радуга Звуков» в Нижнем Новгороде пройдут дни открытых дверей. Только в эти дни всем посетителям будут предложены скидки на слуховые аппараты до 25%.
+</p>			<!--/noindex-->
+		
+
+					<span class="news-date-time">
+				04.09.2017			</span>
+		</div>
+<div class="
+			news-item
+		">
+
+									<a href="/information/news/aktsiya_na_besprovodnuyu_sistemu_phonak_roger/">Акция на беспроводную систему Phonak Roger (акция завершилась)</a><br />
+					
+					<!--noindex-->
+			<p>
+	 С&nbsp;1&nbsp;июня по&nbsp;30 сентября в&nbsp;центрах хорошего слуха «Радуга Звуков» мы&nbsp;проводим акцию на&nbsp;беспроводную систему Phonak Roger: при покупке приёмника и&nbsp;передатчика вы&nbsp;платите только за&nbsp;передатчик. Аксессуары Roger улучшают разборчивость речи в&nbsp;шуме и&nbsp;увеличивают расстояние, на&nbsp;котором вы&nbsp;хорошо...</p>			<!--/noindex-->
+		
+
+					<span class="news-date-time">
+				01.09.2017			</span>
+		</div>
+
+      
+	
+
+
+</div>
+
+ 
+                       </div>
+                </div>
+            </div>
+            
+            <div class="clearfix"></div>
+            <div class="row">
+                <div class="col-md-6 col-sm-6">
+                           <div class="about-raduga bg-gray">
+                               <p class="blocks-name">
+</p>
+<h1 class="blocks-name">
+Центры хорошего слуха «Радуга звуков» </h1>
+ Говорить, видеть и слышать естественно для каждого человека. Но, возможно, именно сегодня Вы поняли, что часть звуков ускользает от Вас, становится недоступной, и приняли решение проверить свой слух. Если это действительно так, «Радуга звуков» - именно то, что Вам нужно! Мы не просто продаем реабилитационную технику по слуху (в том числе цифровые слуховые аппараты), мы предлагаем решения, улучшающие качество жизни слабослышащих и глухих людей. <br>
+ <br>
+ <b>Сеть Центров хорошего слуха «Радуга звуков»</b> активно развивается в течение 20 лет. Центры слухопротезирования расположены в Москве, Санкт-Петербурге и еще в 50 регионах России и в странах СНГ. И с каждым годом их число увеличивается. <br>
+ <br>
+ Посетителям Центров мы предлагаем полный пакет услуг по слухопротезированию*. Специалисты проводят подбор и настройку цифровых и аналоговых внутриушных и заушных слуховых аппаратов*. При необходимости изготавливают индивидуальные ушные вкладыши. В Центрах «Радуга звуков» всегда можно приобрести различные аксессуары (аккумуляторы и батарейки для слуховых аппаратов, средства по уходу и многое другое), реабилитационную технику по слуху (FM-системы, системы социально-бытовой адаптации). Всем клиентам мы обеспечиваем гарантийное и постгарантийное обслуживание.<br>
+ <br>
+<p>
+ <b>Центры хорошего слуха «Радуга звуков»: цифровые слуховые аппараты, внутриушные и заушные модели</b>
+</p>
+<p>
+	 На каждом этапе Вас сопровождают профессионалы, прошедшие обучение в ведущих российских и мировых сурдологических центрах, которые готовы подобрать необходимое именно Вам техническое средство реабилитации. В «Радуге звуков» созданы все условия для качественного слухопротезирования даже самых маленьких посетителей.
+</p>
+ <br>
+                            </div>              
+                </div>
+                <div class="col-md-6 col-sm-6">
+                        <div class="articles-anons">
+                        
+<div class="news-list">
+
+<div class="blocks-name">
+
+		<a href="/information/articles/">Статьи</a>
+</div>
+
+<div class="
+			articles-item
+		">
+
+									<a href="/information/articles/vspomogatelnye_tekhnicheskie_sredstva_i_aksessuary_dlya_vladeltsev_slukhovykh_apparatov/">Вспомогательные технические средства и аксессуары для владельцев слуховых аппаратов</a><br />
+					
+					<!--noindex-->
+			Успешно адаптироваться к звуковому окружению, чувствовать себя уверенно и максимально комфортно в повседневной жизни, оперативно реагировать на важные события слабослышащему человеку помогают уникальные средства бытовой адаптации.			<!--/noindex-->
+		
+
+		</div>
+<div class="
+			articles-item
+		">
+
+									<a href="/information/articles/binax_pervaya_v_mire_tekhnologiya_prevoskhodyashchaya_normalnyy_slukh/">binax. Первая в мире технология, превосходящая нормальный слух</a><br />
+					
+					<!--noindex-->
+			Для того чтобы имитировать естественный бинауральный слух и его преимущества, необходимо “связать” два слуховых аппарата binax. Превосходная технология передачи данных e2ewireless™ 3.0 позволяет обмениваться аудиосигналами между двумя слуховыми аппаратами таким образом, что они могут использовать вх...			<!--/noindex-->
+		
+
+		</div>
+
+      	<div class="clear-place"></div>
+     
+
+
+</div>
+
+<br>
+ 
+<div class="news-list">
+
+<div class="blocks-name">
+
+		<a href="/information/interest/">Это интересно</a>
+</div>
+
+<div class="
+			articles-item
+		">
+
+									<a href="/information/interest/vozvrashchenie_slukha_pozhilym_lyudyam_/">Возвращение слуха пожилым людям </a><br />
+					
+					<!--noindex-->
+			<p>
+	 Спустя какое-то время эта проблема может затронуть любого из нас, поэтому эксперты нашли способ по борьбе с ней.
+</p>			<!--/noindex-->
+		
+
+		</div>
+<div class="
+			articles-item
+		">
+
+									<a href="/information/interest/uchyenye_syr_uluchshaet_slukh/">Учёные: сыр улучшает слух</a><br />
+					
+					<!--noindex-->
+			<p>
+	 Американские учёные обнаружили в&nbsp;сыре и&nbsp;йогурте органическое соединение, защищающее волосковые клетки внутреннего уха от&nbsp;гибели. Это аминокислота...</p>			<!--/noindex-->
+		
+
+		</div>
+<div class="
+			articles-item
+		">
+
+									<a href="/information/interest/uchyenye_otkryli_gen_otvechayushchiy_za_nastuplenie_tugoukhosti_v_pozhilom_vozraste/">Учёные открыли ген, отвечающий за наступление тугоухости в пожилом возрасте</a><br />
+					
+					<!--noindex-->
+			<p>Научные работники из Великобритании совершили важное открытие, обнаружив ген, отвечающий за возрастную потерю слуха. </p>			<!--/noindex-->
+		
+
+		</div>
+
+      	<div class="clear-place"></div>
+     
+
+
+</div>
+
+ <br>
+                       </div>
+                </div>
+            </div>
+            
+            <div class="clearfix"></div>
+            <div class="row bottom-menu-main hiiden-xs">
+                
+
+	
+<ul id="bottom-menu" class="nav nav-justified hidden-xs">
+
+
+	<li class="">
+		<a href="/accessories/" class="">Аксессуары</a>
+	</li>
+			
+
+	<li class="">
+		<a href="/information/newspaper_rz/" class="">Подписка на журнал</a>
+	</li>
+			
+
+	<li class="">
+		<a href="/catalog/novinki/" class="">Новинки</a>
+	</li>
+			
+
+	<li class="">
+		<a href="/price-list/" class="">Прайс-лист</a>
+	</li>
+			
+
+	<li class="">
+		<a href="/catalog/" class="">Слуховые аппараты</a>
+	</li>
+			
+
+	<li class="last">
+		<a href="/information/question/" class="">Задать вопрос</a>
+	</li>
+			
+
+</ul>
+<div class="menu-clear-left"></div>
+
+            </div>
+        </div>
+    </main>
+
+    <!--подвал-->
+    <footer>
+        <div class="container">
+            <!--подвал меню и контакты-->
+            <div class="row">
+                <div class="col-md-8 col-sm-8 col-хs-12 bottom-menu">
+                    <div class="row">
+                        <div class="col-md-4 col-sm-4 col-хs-6">
+ <span class="strong">Радуга звуков</span>
+<ul>
+	<li><a href="/centers/">Адреса центров</a></li>
+	<li><a href="/centers/calendar/">Запись на прием</a></li>
+	<li><a href="/zakaz-obratnogo-zvonka/">Заказать звонок</a></li>
+	<li><a href="/information/newspaper_rz/">Подписка на журнал</a></li>
+	<li><a href="/o-nas/opinions/">Оставить отзыв</a></li>
+</ul>
+                        </div>
+                        <div class="col-md-4 col-sm-4 col-хs-6">
+ <span class="strong">Каталог</span>
+<ul>
+	<li><a href="/catalog/">Слуховые аппараты</a></li>
+	<li><a href="/accessories/">Аксессуары</a></li>
+	<li><a href="/accessories/aksessuary_k_slukhovym_apparatam/sredstva_po_ukhodu/" target="_blank">Средства по уходу за слуховыми аппаратами</a></li>
+	<li><a href="/accessories/ushnye_vkladyshi_dlya_slukhovykh_apparatov/individualnye_ushnye_vkladyshi/">Индивидуальные вкладыши<br>
+ </a></li>
+	<li><a href="/accessories/aksessuary_k_slukhovym_apparatam/batareyki_dlya_slukhovykh_apparatov/">Батарейки для слуховых аппаратов</a></li>
+</ul>
+  
+                        </div>
+                        <div class="col-md-4 col-sm-4 col-хs-6">
+ <span class="strong">Покупателям</span>
+<ul>
+	<li><a href="/price-list/">Цены на слуховые аппараты</a></li>
+	<li><a href="/catalog/kak-kupit/">Как купить</a></li>
+	<li><a href="/centers/kontakty/">Контакты</a></li>
+	<li><a href="/o-nas/vacancies/">Вакансии</a><br>
+ </li>
+	<li><a href="/map/">Карта сайта</a></li>
+</ul>
+                        </div>
+
+                    </div>
+                </div>
+                <div class="col-md-4 col-sm-4 col-хs-12">
+                    <div class="bottom_contact">
+                        <div class="bottom_phone">
+
+8 (800) 770-71-39
+                        </div>
+                        <div class="bottom_socseti">
+
+                             <a href="http://www.facebook.com/radugazvukov"  rel="nofollow"><img border="0" src="/images/main/fb_color.jpg"/></a>
+<a href="http://vkontakte.ru/radugazvukov"  rel="nofollow"><img border="0" src="/images/main/vk_color.jpg"/></a>
+<a href="http://www.odnoklassniki.ru/radugazvukov"  rel="nofollow"><img border="0" src="/images/main/ok_color.jpg"/></a>
+<a href="https://twitter.com/#!/Raduga_zvukov"  rel="nofollow"><img border="0" src="/images/main/twit_color.jpg"/></a>
+<a href="https://plus.google.com/b/106752204979125475746/" rel="nofollow"><img border="0" src="/images/main/google_color.jpg"/></a>
+<a href="http://www.youtube.com/user/radugazvukov" rel="nofollow"><img border="0" src="/images/main/youtube_color.jpg"/></a>
+                        </div>
+                        <div class="bottom_mail">
+<a href="mailto:orp@radugazvukov.ru">orp@radugazvukov.ru</a>                              
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="clearfix"></div>
+            <!--подвал текст-->
+            <div class="row footer-text">
+                <div class="col-md-8 col-sm-8 ">
+                    <!--noindex-->
+Посетителям Центров хорошего слуха "Радуга звуков" мы предлагаем полный пакет услуг по 
+слухопротезированию*. Специалисты проводят подбор и настройку цифровых и аналоговых внутриушных и 
+заушных слуховых аппаратов*. При необходимости изготавливают индивидуальные ушные вкладыши. 
+В Центрах «Радуга звуков» всегда можно приобрести различные аксессуары (аккумуляторы и батарейки для 
+слуховых аппаратов, средства по уходу и многое другое), реабилитационную технику по слуху (FM-системы, 
+системы социально-бытовой адаптации).
+<!--/noindex-->
+
+                </div>
+                <div class="col-md-1 col-sm-1">
+
+                </div>
+                <div class="col-md-3 col-sm-3">
+                <!--noindex-->* 
+Лицензированный вид деятельности. Услуга осуществляется в Центрах хорошего слуха 
+"Радуга звуков", имеющих лицензию.
+<!--/noindex-->
+                </div>
+            </div>
+            <div class="row copyright">
+                <div class="col-md-12">
+                  
+ © 1996-2017 ООО "Радуга Звуков" все права защищены.
+                </div>
+
+            </div>
+        </div>
+
+    </footer>
+    
+
+
+
+    <script src="/bitrix/templates/meganew/js/bootstrap.min.js"></script>
+    <script src="/bitrix/templates/meganew/js/docs.min.js"></script>
+    	<script src="/bitrix/templates/meganew/js/jquery.flexslider-min.js"></script>
+    <script>
+$(document).ready(function () {
+	$('.flexslider').flexslider({
+		animation: 'fade',
+		controlsContainer: '.flexslider'
+	});
+});
+</script>
+
+<!-- Yandex.Metrika counter -->
+<div style="display:none;"><script type="text/javascript">
+(function(w, c) {
+    (w[c] = w[c] || []).push(function() {
+        try {
+            w.yaCounter10664968 = new Ya.Metrika({id:10664968, enableAll: true});
+        }
+        catch(e) { }
+    });
+})(window, "yandex_metrika_callbacks");
+</script></div>
+<script src="//mc.yandex.ru/metrika/watch.js" type="text/javascript" defer="defer"></script>
+<noscript><div><img src="//mc.yandex.ru/watch/10664968" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
+<!-- /Yandex.Metrika counter -->
+
+</body>
+</html>
